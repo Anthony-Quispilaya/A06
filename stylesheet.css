@@ -1,0 +1,11 @@
+.indent {
+    padding-left: 40px;
+}
+
+.package_list li {
+    padding-left: 23px;
+}
+
+* {
+    font-family: 'Times New Roman', Times, serif
+}
